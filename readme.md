@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/nairbh?label=Follow&style=social)](https://github.com/nairbh)
 
-![Houcine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nairbh&bg_color=ffffff&color=000000&line=0000ff&point=00ff00)
+[![Houcine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nairbh&bg_color=ffffff&color=000000&line=0000ff&point=00ff00)](https://github.com/nairbh)
 
 ## About Me
 - 🌱 I’m currently learning #C #PHP #JSON #PYTHON #JS
