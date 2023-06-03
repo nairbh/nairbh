@@ -3,6 +3,7 @@
 <div style="text-align: center;">
   <img src="https://zupimages.net/up/23/22/fqai.gif" alt="Description de l'image" style="max-width: 1000%;" />
 </div>
+
 ## About Me
 - 🌱 I’m currently learning #C #PHP #JSON #PYTHON #JS
 - 🔭 I’m currently working on some cool projects
