@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/nairbh?label=Follow&style=social)](https://github.com/nairbh)
 <div style="text-align: left;">
-  <img src="https://zupimages.net/up/23/22/fqai.gif" alt="Description de l'image" style="max-width: 1000%;" />
+  <img src="https://zupimages.net/up/23/22/fqai.gif" alt="Description de l'image" style="max-width: 0%;" />
 </div>
 
 ## About Me
