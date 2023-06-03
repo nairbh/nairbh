@@ -2,9 +2,6 @@
 
 [![Github](https://img.shields.io/github/followers/nairbh?label=Follow&style=social)](https://github.com/nairbh)
 
-[![Houcine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nairbh&show_icons=true&theme=radical)](https://github.com/nairbh)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nairbh&layout=compact&theme=radical)](https://github.com/nairbh)
-
 ## About Me
 - 🌱 I’m currently learning #C #PHP #JSON #PYTHON #JS
 - 🔭 I’m currently working on some cool projects
