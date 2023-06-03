@@ -47,6 +47,8 @@
 &nbsp;
 <!-- Social button 3 -->
 <!-- Light Mode -->
+  ![Houcine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nairbh&bg_color=ffffff&color=000000&line=0000ff&point=00ff00)
+
 <!-- Dark Mode -->
 <div style="text-align: left;">
   <img src="https://zupimages.net/up/23/22/fqai.gif" alt="Description de l'image" style="max-width: 0%;" />
