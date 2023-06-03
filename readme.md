@@ -12,8 +12,7 @@
 
 ## My GitHub Statistics
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nairbh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Houcine's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nairbh=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/nairbh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nairbh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Houcine's github stats" /></a>	<a href="https://github.com/nairbh"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nairbh&layout=compact&theme=buefy&hide_border=true" /></a>
 ## My Projects
 
 Here's a list of some of my favorite projects that I have worked on:
