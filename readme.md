@@ -26,6 +26,7 @@
 <img height="200" src="https://github-readme-stats.vercel.app/api?username=nairbh&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=radical&bg_color=000000#gh-dark-mode-only" alt="Houcine's Github stats" />
 </a>
 </div>
+[![Houcine's GitHub Activity Graph](https://github-readme-stats.vercel.app/api/wakatime?username=nairbh)](https://github.com/nairbh)
 
 <br/>
 
@@ -39,6 +40,7 @@
 <a href="https://twitter.com/intent/follow?screen_name=gemsnair#gh-light-mode-only">
 <img src="https://img.shields.io/badge/follow-%40gemsnair-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
 </a>
+  
 <!-- Dark Mode -->
 <a href="https://twitter.com/intent/follow?screen_name=gemsnair#gh-dark-mode-only">
 <img src="https://img.shields.io/badge/follow-%40gemsnair-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
@@ -50,4 +52,6 @@
 <!-- Dark Mode -->
 <div style="text-align: left;">
   <img src="https://zupimages.net/up/23/22/fqai.gif">
+  </div>
+
 
