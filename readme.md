@@ -23,10 +23,10 @@
 <!-- Dark Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nairbh&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Houcine's Language stats" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nairbh&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=radical&bg_color=000000#gh-dark-mode-only" alt="Houcine's Language stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=nairbh&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Houcine's Github stats" />
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=nairbh&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=radical&bg_color=000000#gh-dark-mode-only" alt="Houcine's Github stats" />
 </a>
 </div>
 
@@ -40,7 +40,7 @@
 <!-- Social button 2 -->
 <!-- Light Mode -->
 <a href="https://twitter.com/intent/follow?screen_name=gemsnair#gh-light-mode-only">
-<img src="https://img.shields.io/badge/follow-%40rick_staa-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
+<img src="https://img.shields.io/badge/follow-%40gemsnair-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
 </a>
 <!-- Dark Mode -->
 <a href="https://twitter.com/intent/follow?screen_name=gemsnair#gh-dark-mode-only">
@@ -52,5 +52,5 @@
 
 <!-- Dark Mode -->
 <div style="text-align: left;">
-  <img src="https://zupimages.net/up/23/22/fqai.gif" alt="Description de l'image" style
+  <img src="https://zupimages.net/up/23/22/fqai.gif">
 
