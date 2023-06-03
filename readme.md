@@ -1,6 +1,9 @@
 ### Hey 👋, I'm Houcine
 
 [![Github](https://img.shields.io/github/followers/nairbh?label=Follow&style=social)](https://github.com/nairbh)
+<div style="text-align: left;">
+  <img src="https://zupimages.net/up/23/22/fqai.gif" alt="Description de l'image" style="max-width: 1000%;" />
+</div>
 
 ## About Me
 - 🌱 I’m currently learning #C #PHP #JSON #PYTHON #JS
