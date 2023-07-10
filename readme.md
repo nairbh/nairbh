@@ -1,4 +1,6 @@
 ### Hey 👋, I'm Houcine
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
 [![Github](https://img.shields.io/github/followers/nairbh?label=Follow&style=social)](https://github.com/nairbh)
 
@@ -49,8 +51,3 @@
 <!-- Light Mode -->
 
 <!-- Dark Mode -->
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  </div>
-
-
