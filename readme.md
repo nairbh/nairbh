@@ -49,8 +49,8 @@
 <!-- Light Mode -->
 
 <!-- Dark Mode -->
-<div style="text-align: left;">
-  <img src="https://zupimages.net/up/23/22/fqai.gif">
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   </div>
 
 
