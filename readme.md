@@ -126,16 +126,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-### Hey 👋, I'm Houcine
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
-[![Github](https://img.shields.io/github/followers/nairbh?label=Follow&style=social)](https://github.com/nairbh)
-
-## About Me
-- 🌱 I’m currently learning #C #PHP #JSON #PYTHON #JS
-- 🔭 I’m currently working on some cool projects
-- 💬 Ask me about anything, I'm always happy to help
 
 <!-- Light Mode -->
 <div align="center"> 
