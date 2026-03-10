@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d0d0d,50:0a0a2e,100:001a33&text=HOUCINE%20NAIRBH&fontSize=58&fontColor=00fff2&animation=fadeIn&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20%26%20SAAS%20BUILDER&descSize=16&descAlignY=62&descColor=a0e8ff&section=header" />
-
 </div>
 
 <br/>
