@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d0d0d,50:0a0a2e,100:000000&text=HOUCINE%20NAIRBH&fontSize=60&fontColor=00fff2&stroke=00fff2&strokeWidth=2&animation=twinkling&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20%26%20SAAS%20BUILDER&descSize=16&descAlignY=62&descColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d0d0d,50:0a0a2e,100:001a33&text=HOUCINE%20NAIRBH&fontSize=58&fontColor=00fff2&animation=fadeIn&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20%26%20SAAS%20BUILDER&descSize=16&descAlignY=62&descColor=a0e8ff&section=header" />
 
 </div>
 
@@ -153,7 +153,7 @@ Architecture multi-agents spécialisés, déployée on-premise.
 "Ship fast. Stay curious. Build things that matter."
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0a2e&height=80&section=footer&reversal=false" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a33,100:0a0a2e&height=100&section=footer" />
 
 <img src="https://komarev.com/ghpvc/?username=nairbh&label=PROFILE+VIEWS&color=00fff2&style=for-the-badge" />
 
